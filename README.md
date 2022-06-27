@@ -8,7 +8,9 @@
  
 </div>
 
-<div align="center">
+<br />
+
+<div>
   <a href="https://github.com/jardersilva">
   <img height="180em" src="https://github-readme-stats-jardersilva.vercel.app/api?username=jardersilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-jardersilva.vercel.app/api/top-langs/?username=jardersilva&layout=compact&langs_count=7&theme=dark"/>
