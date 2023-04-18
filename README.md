@@ -21,6 +21,8 @@
   <img align="center" alt="jarder-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="jarder-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="jarder-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" />
+  <img align="center" alt="jarder-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" />
+  <img align="center" alt="jarder-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" />
                   
 </div>
 
