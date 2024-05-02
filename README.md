@@ -13,7 +13,7 @@
 <div>
   <a href="https://github.com/jardersilva">
   <img height="180em" src="https://github-readme-stats-fv3f-n8v9w7pmc-jardersilvas-projects.vercel.app/api?username=jardersilva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-jardersilva.vercel.app/api/top-langs/?username=jardersilva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-fv3f-n8v9w7pmc-jardersilvas-projects.vercel.app/api/top-langs/?username=jardersilva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="jarder-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
